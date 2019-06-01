@@ -1,4 +1,4 @@
-#Projeto acâdemico de Faculdade
+#Projeto acadêmico de Faculdade
 
 Um simples app de uma Loja de Veiculos.
 
