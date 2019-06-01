@@ -4,7 +4,7 @@ Um simples app de uma Loja de Veiculos.
 
 Tecnologias utilizadas:
 
-Linguagem: Java (Swing, JDBC).
+Linguagem de Programação: Java (Swing e JDBC).
 
 Banco de Dados: MySQL.
 
