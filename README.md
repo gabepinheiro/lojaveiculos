@@ -1,13 +1,13 @@
-#Projeto acadêmico de Faculdade
+## Projeto acadêmico de Faculdade
 
-Um simples app de uma Loja de Veiculos.
+Uma aplicação para Loja de Veiculos.
 
-Tecnologias utilizadas:
+### Tecnologias utilizadas:
 
 Linguagem de Programação: Java (Swing e JDBC).
 
 Banco de Dados: MySQL.
 
-Padrão de Projetos: POO.
+Programação Orientadada a Objetos.
 
 Arquitetura: MVC + DAO.
